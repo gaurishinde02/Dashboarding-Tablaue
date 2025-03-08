@@ -35,3 +35,19 @@ This project showcases the use of SQL for data exploration and Tableau for data 
 - Integrating real-time data for more dynamic dashboards.
 - Expanding customer insights with predictive analytics.
 - Automating data updates using SQL scripts.
+
+---
+
+### **1. COVID-19 Data Exploration and Visualization**
+- **Global Trends:** The dataset provides an overview of COVID-19 deaths across different countries, enabling comparative analysis.
+- **Mortality Rate Analysis:** SQL queries help calculate mortality rates and identify countries with the highest impact.
+- **Temporal Patterns:** Tableau visualizations showcase how COVID-19 deaths varied over time, highlighting peaks and troughs.
+- **Geographical Impact:** Choropleth maps or bar charts in Tableau can help identify regions most affected.
+
+### **2. Customer Insights Dashboard**
+- **Customer Segmentation:** The dataset allows the classification of customers based on purchasing behavior.
+- **Spending Patterns:** Visualizations reveal trends in customer spending, identifying high-value customers.
+- **Churn Prediction:** Insights from the dashboard could indicate patterns in customer retention and churn risks.
+- **Sales Trends:** Identifying which products or services contribute most to revenue over time.
+
+Would you like me to add these insights to the README file as a dedicated section? 🚀
