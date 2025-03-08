@@ -44,10 +44,4 @@ This project showcases the use of SQL for data exploration and Tableau for data 
 - **Temporal Patterns:** Tableau visualizations showcase how COVID-19 deaths varied over time, highlighting peaks and troughs.
 - **Geographical Impact:** Choropleth maps or bar charts in Tableau can help identify regions most affected.
 
-### **2. Customer Insights Dashboard**
-- **Customer Segmentation:** The dataset allows the classification of customers based on purchasing behavior.
-- **Spending Patterns:** Visualizations reveal trends in customer spending, identifying high-value customers.
-- **Churn Prediction:** Insights from the dashboard could indicate patterns in customer retention and churn risks.
-- **Sales Trends:** Identifying which products or services contribute most to revenue over time.
 
-Would you like me to add these insights to the README file as a dedicated section? 🚀
