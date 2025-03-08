@@ -1,4 +1,4 @@
-# **Covud-19 Insights with Tableau and SQL**
+# **Covid-19 Insights with Tableau and SQL**
 
 ## **Overview**
 This project showcases the use of SQL for data exploration and Tableau for data visualization. The datasets used include COVID-19 deaths data and a company dataset for customer insights. The project aims to demonstrate how data can be transformed into actionable insights using SQL queries and interactive dashboards.
